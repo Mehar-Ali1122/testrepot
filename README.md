@@ -1,5 +1,5 @@
 # Data Science
 
-## Edoting the file
+## Editing the file
 
 its a markdown file this repository.
